@@ -1,5 +1,10 @@
-import Vue from "vue";
-import VueRouter from "vue-router";
+/*
+ * @Author: songyzh
+ * @Date: 2022-01-05 14:30:14
+ * @LastEditors: songyzh
+ * @LastEditTime: 2022-01-07 13:08:31
+ * @Description:
+ */
 import Home from "../views/Home.vue";
 
 Vue.use(VueRouter);
